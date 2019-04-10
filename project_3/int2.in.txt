@@ -1,0 +1,76 @@
+new
+empty 1
+size 0
+npl -1
+push 6
+push 3
+push 139
+npl 1
+push 10
+push 139
+push 9
+push 2
+npl 0
+push 139
+npl 1
+push 5
+push 7
+npl 2
+push 139
+push 11
+push 0
+npl 0
+push 139
+npl 1
+push 10
+push 4
+push 8
+push 139
+push 7
+push 10
+push 1
+npl 1
+push 3
+npl 2
+push 1000
+push 1000
+npl 3
+size 24
+count 7 2
+count 10 3
+count 139 6
+count 1000 2
+top 0
+pop 0
+top 1
+pop 1
+top 2
+pop 2
+pop 3
+pop 3
+pop 4
+pop 5
+pop 6
+pop 7
+pop 7
+pop 8
+pop 9
+pop 10
+pop 10
+pop 10
+pop 11
+pop 139
+pop 139
+pop 139
+pop 139
+pop 139
+pop 139
+pop 1000
+pop 1000
+top!
+empty 1
+npl -1
+size 0
+delete
+summary
+
