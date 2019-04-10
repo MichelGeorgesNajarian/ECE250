@@ -1,0 +1,14 @@
+//this test will take a bit to finish
+//please wait patiently
+new: 30
+capacity 1073741824
+size 0
+empty 1
+insert 2147483647
+size 1
+bin 1073741823 2147483647
+size 1
+empty 0
+delete
+summary
+details
